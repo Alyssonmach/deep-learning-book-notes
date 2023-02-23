@@ -6,7 +6,7 @@ This repository contains my notes and Python code implementation while reading t
 ### Table of Contents
 
 * [Chapter 1: Introduction](chapter-01)
-* Chapter 2: Linear Algebra
+* [Chapter 2: Linear Algebra](chapter-02)
 * Chapter 3: Probability and Information Theory
 * Chapter 4: Numerical Computation
 * Chapter 5: Machine Learning Basics
